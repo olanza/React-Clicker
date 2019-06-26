@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Clicker/static/css/main.7143746e.chunk.css",
+    "main.js": "/React-Clicker/static/js/main.05888aae.chunk.js",
+    "main.js.map": "/React-Clicker/static/js/main.05888aae.chunk.js.map",
+    "runtime~main.js": "/React-Clicker/static/js/runtime~main.ac24970d.js",
+    "runtime~main.js.map": "/React-Clicker/static/js/runtime~main.ac24970d.js.map",
+    "static/js/2.884c28c3.chunk.js": "/React-Clicker/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/React-Clicker/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/React-Clicker/index.html",
+    "precache-manifest.5215720ede15a9a394b394e34e010b63.js": "/React-Clicker/precache-manifest.5215720ede15a9a394b394e34e010b63.js",
+    "service-worker.js": "/React-Clicker/service-worker.js",
+    "static/css/main.7143746e.chunk.css.map": "/React-Clicker/static/css/main.7143746e.chunk.css.map"
+  }
+}
